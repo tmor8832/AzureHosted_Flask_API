@@ -1,7 +1,5 @@
-# Deploy a Python (Flask) web app to Azure App Service - Sample Application
+# Flask weather API hosted in Azure using Azure SQL database
 
-This is the sample Flask application for the Azure Quickstart [Deploy a Python (Django or Flask) web app to Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/quickstart-python).  For instructions on how to create the Azure resources and deploy the application to Azure, refer to the Quickstart article.
+This is a weather API with the data stored in azure SQL database, the user can make requests to add, update, get and remove data from the azure hosted API.
 
-A Django sample application is also available for the article at [https://github.com/Azure-Samples/msdocs-python-django-webapp-quickstart](https://github.com/Azure-Samples/msdocs-python-django-webapp-quickstart).
-
-If you need an Azure account, you can [create on for free](https://azure.microsoft.com/en-us/free/).
+By Tom M for JHub scheme.
