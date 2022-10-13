@@ -29,3 +29,13 @@ This was a very useful and interesting project which I enjoyed.
 ![Screenshot from 2022-10-13 19-02-42](https://user-images.githubusercontent.com/64171887/195672534-b9284e12-b86b-43a2-9f71-ab3ca4f34a17.png)
 
 <h2> Results of writing to, reading from and delete info in the database using the API</h2>
+
+![image](https://user-images.githubusercontent.com/64171887/195676918-f08f1734-a498-49c1-b051-a7e94f384bba.png)
+
+<h2> App hosted in the cloud - note the URL </h2>
+
+![image](https://user-images.githubusercontent.com/64171887/195676697-34b5c950-5b74-49a0-b879-72501df6cb51.png)
+
+![image](https://user-images.githubusercontent.com/64171887/195677050-093afb33-6655-4672-914d-6664cb6c5e54.png)
+
+
