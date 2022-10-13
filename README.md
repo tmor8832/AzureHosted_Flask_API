@@ -4,7 +4,9 @@ This is a weather API with the data stored in azure SQL database, the user can m
 
 By Tom M for JHub scheme.
 
-First I created the SQL database 'weather' to hold the data. Then I created a flask app to act as the API to communicate with the database using requests and SQL. Then after testing on localhost, deployed to Azure using the instructions 
+First I created the SQL database 'weather' to hold the data. Then I created a flask app to act as the API to communicate with the database using requests and SQL. Then after testing on localhost, deployed to Azure using the instructions which are linked in the app.py file at the appropriate points they were needed.
+
+This was a very useful and interesting project which I enjoyed.
 
 <h2>Creating the web app in VSCode using the azure extension</h2>
 
