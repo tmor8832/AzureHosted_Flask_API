@@ -26,11 +26,14 @@ This was a very useful and interesting project which I enjoyed.
 
 <h2> Testing the API through requests to that URL from a separate VSCode window, now using the cloud </h2>
 
-![Screenshot from 2022-10-13 19-02-42](https://user-images.githubusercontent.com/64171887/195672534-b9284e12-b86b-43a2-9f71-ab3ca4f34a17.png)
+![image](https://user-images.githubusercontent.com/64171887/195677327-f16d0c9a-0a88-46cd-9a6a-06b783e31e59.png)
 
 <h2> Results of writing to, reading from and delete info in the database using the API</h2>
 
 ![image](https://user-images.githubusercontent.com/64171887/195676918-f08f1734-a498-49c1-b051-a7e94f384bba.png)
+
+![image](https://user-images.githubusercontent.com/64171887/195677538-3d862110-2dc2-4af4-828b-788b28b57a8d.png)
+
 
 <h2> App hosted in the cloud - note the URL </h2>
 
